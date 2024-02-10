@@ -1,2 +1,2 @@
 # Homework
-A html fact file on Timm Berners Lee for school homework.
+A html fact file on Tim Berners Lee for school homework.
